@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @IbuPatla
+- 👀 I’m interested in "App development, web develpment and game development
+- 🌱 I’m currently learning Html CSS JavaScript
+- 📫 How to reach me. insta-id: ibu_patla
